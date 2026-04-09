@@ -9,6 +9,7 @@ st.set_page_config(
 
 # Title
 st.title("⚖️ BMI Calculator")
+st.divider()
 
 # Description
 st.markdown("""
